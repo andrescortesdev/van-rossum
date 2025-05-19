@@ -4,4 +4,5 @@ Este repositorio fue creado con el objetivo de centralizar todos los proyectos d
 
 ## Ejemplos de portafolios desarrollados por compañeros
 - [jhoan-rios](https://jhoan-rios.github.io/portafolio/)
+- [mbedoya29](https://mbedoya29.github.io/Proyectos-Riwi/)
 
